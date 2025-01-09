@@ -1,0 +1,5 @@
+1) Define an inegar array and print it.
+
+2) Insert an element at the 3rd position of the array
+
+3) delete the 2nd element from the array
